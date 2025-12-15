@@ -1,4 +1,4 @@
-# 📚 StudantApp — Sistema de Estudos
+# 📚 StudentApp — Sistema de Estudos
 
 **StudantApp** é um sistema web completo voltado para estudantes que desejam organizar seu processo de aprendizado de forma prática, visual e eficiente. Ele oferece recursos de cadastro de matérias, criação de anotações com formatação, controle de tempo de estudo com temporizador e visualização de desempenho em gráficos.
 
