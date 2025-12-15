@@ -1,6 +1,6 @@
 # 📚 StudentApp — Sistema de Estudos
 
-**StudantApp** é um sistema web completo voltado para estudantes que desejam organizar seu processo de aprendizado de forma prática, visual e eficiente. Ele oferece recursos de cadastro de matérias, criação de anotações com formatação, controle de tempo de estudo com temporizador e visualização de desempenho em gráficos.
+**StudentApp** é um sistema web completo voltado para estudantes que desejam organizar seu processo de aprendizado de forma prática, visual e eficiente. Ele oferece recursos de cadastro de matérias, criação de anotações com formatação, controle de tempo de estudo com temporizador e visualização de desempenho em gráficos.
 
 ---
 
@@ -56,7 +56,7 @@
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd studantapp
+   cd studentapp
    ```
 3. No `vscode` utilizando a extensão `Live Server`, inicie um `localhost`;
 
